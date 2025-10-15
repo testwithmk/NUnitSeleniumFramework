@@ -1,0 +1,76 @@
+﻿{
+  "Add": [
+    {
+      "Certificate": "ISTQB",
+      "CertifiedFrom": "BCS",
+      "Year": "2023"
+    },
+    {
+      "Certificate": "Scrum Master",
+      "CertifiedFrom": "Scrum Org",
+      "Year": "2022"
+    },
+    {
+      "Certificate": "AWS Practitioner",
+      "CertifiedFrom": "Amazon",
+      "Year": "2024"
+    },
+    {
+      "Certificate": "Project Management",
+      "CertifiedFrom": "Google",
+      "Year": "2021"
+    }
+  ],
+  "Edit": [
+    {
+      "UpdatedCertificate": "Agile Test",
+      "UpdatedCertifiedFrom": "Global",
+      "UpdatedYear": "2025"
+    }
+  ],
+  "Delete": [
+    {
+      "Certificate": "ISTQB"
+    }
+  ],
+  "Duplicate": [
+    {
+      "Certificate": "Platform",
+      "CertifiedFrom": "Salesforce",
+      "Year": "2022"
+    },
+    {
+      "Certificate": "Platform",
+      "CertifiedFrom": "Salesforce",
+      "Year": "2022"
+    },
+    {
+      "Certificate": "Platform",
+      "CertifiedFrom": "Salesforce",
+      "Year": "2023"
+    }
+  ],
+  "Invalid": [
+    {
+      "Certificate": "",
+      "CertifiedFrom": "",
+      "Year": ""
+    },
+    {
+      "Certificate": "    ",
+      "CertifiedFrom": "    ",
+      "Year": "2018"
+    },
+    {
+      "Certificate": "%!^&*()_+&#58",
+      "CertifiedFrom": "Tech",
+      "Year": "2012"
+    },
+    {
+      "Certificate": "<script>",
+      "CertifiedFrom": "<test?",
+      "Year": "2012"
+    }
+  ]
+
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|c:\\users\\mpkau\\onedrive\\desktop\\nunitseleniumframework\\nunitseleniumframework\\tests\\certificationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|solutionrelative:nunitseleniumframework\\tests\\certificationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|c:\\users\\mpkau\\onedrive\\desktop\\nunitseleniumframework\\nunitseleniumframework\\utilities\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|solutionrelative:nunitseleniumframework\\utilities\\screenshothelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|c:\\users\\mpkau\\onedrive\\desktop\\nunitseleniumframework\\nunitseleniumframework\\utilities\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|solutionrelative:nunitseleniumframework\\utilities\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|c:\\users\\mpkau\\onedrive\\desktop\\nunitseleniumframework\\nunitseleniumframework\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F588B3F8-D4AF-475B-BF23-7EA540178B4F}|NunitSeleniumFramework\\NunitSeleniumFramework.csproj|solutionrelative:nunitseleniumframework\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertificationsTest.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Tests\\CertificationsTest.cs",
+              "RelativeDocumentMoniker": "NunitSeleniumFramework\\Tests\\CertificationsTest.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Tests\\CertificationsTest.cs",
+              "RelativeToolTip": "NunitSeleniumFramework\\Tests\\CertificationsTest.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:22:05.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenshotHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Utilities\\ScreenshotHelper.cs",
+              "RelativeDocumentMoniker": "NunitSeleniumFramework\\Utilities\\ScreenshotHelper.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Utilities\\ScreenshotHelper.cs",
+              "RelativeToolTip": "NunitSeleniumFramework\\Utilities\\ScreenshotHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:20:39.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Utilities\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "NunitSeleniumFramework\\Utilities\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Utilities\\ExtentReportManager.cs",
+              "RelativeToolTip": "NunitSeleniumFramework\\Utilities\\ExtentReportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:18:47.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "NunitSeleniumFramework\\Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Desktop\\NunitSeleniumFramework\\NunitSeleniumFramework\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "NunitSeleniumFramework\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:07:51.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+﻿{
+  "Add": [
+    {
+      "University": "Auckland University of Technology",
+      "Country": "New Zealand",
+      "Title": "M.Tech",
+      "Degree": "Master of Engineering",
+      "Year": "2020"
+    },
+    {
+      "University": "University of Melbourne",
+      "Country": "Australia",
+      "Title": "MFA",
+      "Degree": "Master of Fine Arts",
+      "Year": "2022"
+    },
+    {
+      "University": "Stanford University",
+      "Country": "United States",
+      "Title": "B.A",
+      "Degree": "Bachelor of Arts",
+      "Year": "2021"
+    },
+    {
+      "University": "University of Oxford",
+      "Country": "United Kingdom",
+      "Title": "B.Tech",
+      "Degree": "Bachelor of Engineering",
+      "Year": "2019"
+    }
+  ],
+  "Edit": [
+    {
+      "UpdatedUniversity": "AUT University",
+      "UpdatedCountry": "New Zealand",
+      "UpdatedTitle": "M.B.A",
+      "UpdatedDegree": "Master of Business Administration",
+      "UpdatedYear": "2025"
+    }
+  ],
+  "Delete": [
+    {
+      "Title": "M.Tech"
+    }
+  ],
+  "Duplicate": [
+    {
+      "University": "University of Toronto",
+      "Country": "Canada",
+      "Title": "B.Sc",
+      "Degree": "Bachelor of of Science",
+      "Year": "2019"
+    },
+    {
+      "University": "University of Toronto",
+      "Country": "Canada",
+      "Title": "B.Sc",
+      "Degree": "Bachelor of of Science",
+      "Year": "2019"
+    },
+    {
+      "University": "University of Toronto",
+      "Country": "Canada",
+      "Title": "B.Sc",
+      "Degree": "Bachelor of of Science",
+      "Year": "2021"
+    }
+  ],
+  "Invalid": [
+    {
+      "University": "   ",
+      "Country": "Algeria",
+      "Title": "MFA",
+      "Degree": "    ",
+      "Year": "2022"
+    },
+    {
+      "University": "%!^&*()_+&#58",
+      "Country": "Angola",
+      "Title": "Associate",
+      "Degree": "$()^5$$2+2gg",
+      "Year": "2023"
+    },
+    {
+      "University": "<select>",
+      "Country": "Germany",
+      "Title": "PHD",
+      "Degree": "?insert>",
+      "Year": "2024"
+    },
+    {
+      "University": "",
+      "Country": "India",
+      "Title": "B.A",
+      "Degree": "",
+      "Year": "2020"
+    }
+  ]
+}
